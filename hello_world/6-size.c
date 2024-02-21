@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Program that prints the size of various types on the computer it is compiled and run on
+ * main - Program that prints the size of various types
  *
  * Return 0 (Success)
  */
@@ -20,4 +20,3 @@ int main(void)
 	printf("Size of a float: %lu byte(s)\n", (unsigned long) sizeof(f));
 	return (0);
 }
-
