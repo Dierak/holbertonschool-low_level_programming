@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
+ * main - Program that prints the alphabet in lowercase and in uppercase
  *
- *
- *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
