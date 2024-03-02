@@ -6,7 +6,7 @@
  * Return: returns length;
  */
 
-int _strlen(char *s)
+int _strlen(char *s )
 {
 	int count, inc;
 	inc = 0;
