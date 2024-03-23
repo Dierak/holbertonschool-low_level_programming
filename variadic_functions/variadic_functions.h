@@ -4,6 +4,9 @@
 #include <stdarg.h>
 #include <stdio.h>
 
+/**
+ * struct printer - structure
+ */
 typedef struct printer
 {
 char *symbol;
